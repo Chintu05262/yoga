@@ -7,7 +7,7 @@ import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import banner from '../../assets/images/banner1.png'
-import Footer from '../../Components/footer';
+import Footer from '../../Components/Footer';
 
 import icon from '../../assets/images/svgicon1.png'
 import icon2 from '../../assets/images/svgicon2.png'
