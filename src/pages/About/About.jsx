@@ -1,6 +1,6 @@
 import React from 'react';
 import './About.css';
-import Footer from '../../Components/footer';
+import Footer from '../../Components/Footer';
 import { Link } from 'react-router-dom';
 import Slider from 'react-slick';
 import "slick-carousel/slick/slick.css";
